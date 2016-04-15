@@ -1,0 +1,6 @@
+{
+  "name": "Installing Perl 6",
+  "description": "Installing Perl 6 (Rakudo Star 2016.01)",
+  "author": "Michael Heironimus",
+  "sections": [ { "section": "slides.md" } ]
+}
