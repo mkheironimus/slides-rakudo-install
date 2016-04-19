@@ -1,7 +1,7 @@
 # slides-rakudo-install
 
 [Perl 6](https://perl6.org/) installation notes. This is a
-[ShowOff](https://github.com/puppetlabs/showoff) presentation.
+[ShowOff](https://github.com/puppetlabs/showoff) 0.11.2 presentation.
 
 You can also view this presentation [in your
 browser](https://mkheironimus.github.io/slides-rakudo-install/). Move through
