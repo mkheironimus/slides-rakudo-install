@@ -2,5 +2,9 @@
   "name": "Installing Perl 6",
   "description": "Installing Perl 6 (Rakudo Star 2016.01)",
   "author": "Michael Heironimus",
+  "url": "https://mkheironimus.github.io/",
+  "email": "heironimus@gmail.com",
+  "twitter": "mkheironimus",
+  "templates": { "default": "default.tpl" },
   "sections": [ { "section": "slides.md" } ]
 }
