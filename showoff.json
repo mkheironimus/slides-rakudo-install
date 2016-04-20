@@ -6,5 +6,5 @@
   "email": "heironimus@gmail.com",
   "twitter": "mkheironimus",
   "templates": { "default": "default.tpl" },
-  "sections": [ { "section": "slides.md" } ]
+  "sections": [ { "section": "slides" } ]
 }
