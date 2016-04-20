@@ -24,9 +24,9 @@ Christmas release: Rakudo Star 2016.01
 !SLIDE
 # Get you some code!
 
+<http://perl6.org/> -> Documentation
+
 * <http://examples.perl6.org/>
 * <https://rosettacode.org/wiki/Category:Perl_6>
-
-<http://perl6.org/> -> Documentation
 
 
