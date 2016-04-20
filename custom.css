@@ -38,15 +38,12 @@ a {
 	float: left;
 	padding-left: 15px;
 	padding-right: 15px;
-	width: -webkit-calc(33% - 30px);
-	width: calc(33% - 30px);
+	width: -webkit-calc(50% - 30px);
+	width: calc(50% - 30px);
 	font-size: 50%;
 }
 .content .slide-info-left {
 	text-align: left;
-}
-.content .slide-info-center {
-	text-align: center;
 }
 .content .slide-info-right {
 	text-align: right;

@@ -5,6 +5,7 @@
   "url": "https://mkheironimus.github.io/",
   "email": "heironimus@gmail.com",
   "twitter": "mkheironimus",
+  "shortlink": "https://goo.gl/QHTmYe",
   "templates": { "default": "default.tpl" },
   "sections": [ { "section": "slides" } ]
 }

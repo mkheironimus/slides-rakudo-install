@@ -7,11 +7,16 @@
 
 ~~~CONFIG:author~~~
 
+<~~~CONFIG:url~~~>
+
 <~~~CONFIG:email~~~>
 
 [@~~~CONFIG:twitter~~~](https://twitter.com/~~~CONFIG:twitter~~~)
 
-<~~~CONFIG:url~~~>
+----
+Online with links (page through with arrows):
+
+<~~~CONFIG:shortlink~~~>
 
 !SLIDE
 # <https://perl6.org/downloads/>
