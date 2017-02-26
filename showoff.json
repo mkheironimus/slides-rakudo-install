@@ -7,5 +7,5 @@
   "twitter": "mkheironimus",
   "shortlink": "https://goo.gl/QHTmYe",
   "templates": { "default": "default.tpl" },
-  "sections": [ { "section": "slides" } ]
+  "sections": [ "slides/slides.md" ]
 }
